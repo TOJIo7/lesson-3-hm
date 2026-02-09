@@ -29,32 +29,39 @@ nav {
     margin-left: 50px;
     margin-right: 150px;
 }
-main{
+
+main {
     font-size: 40px;
     width: 50%;
     margin-top: 230px;
     margin-left: 90px;
 }
-main p{
+
+main p {
     margin-top: 40px;
     font-size: 30px;
 }
-.b1{
+
+.b1 {
     margin-top: 40px;
-    padding: 15px;background-color: #0E9E2F;
+    padding: 15px;
+    background-color: #0E9E2F;
     color: white;
     border: none;
     font-size: 20px;
 }
-.wt{
+
+.wt {
     margin-left: 1400px;
     position: absolute;
     margin-top: 40px;
 }
-.icon{
+
+.icon {
     display: none;
 }
-section{
+
+section {
     width: 90%;
     height: 90vh;
     background-color: aqua;
@@ -62,49 +69,59 @@ section{
     margin-bottom: 80px;
     margin-top: 50px;
 }
-.sc1{
+
+.sc1 {
     width: 100%;
     height: 150vh;
     padding-top: 80px;
     background-color: #686868;
     color: white;
 }
-.fr1{
+
+.fr1 {
     width: 90%;
     height: 145vh;
     margin: auto;
 }
-.frr{
+
+.frr {
     font-size: 19px;
     width: 30%;
 }
-.frr h1{
+
+.frr h1 {
     margin-bottom: 30px;
 }
-.boxs{
+
+.boxs {
     margin-top: 30px;
-    width: 100%;  
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
-.box{
+
+.box {
     width: 30%;
     height: 400px;
     background-color: #555353;
 }
-.bx{
+
+.bx {
     font-size: 23px;
     width: 90%;
     height: 300px;
     margin-left: 40px;
 }
-.bx h1{
+
+.bx h1 {
     margin-bottom: 10px;
 }
-.box img{
+
+.box img {
     text-align: center;
 }
-.b2{
+
+.b2 {
     margin-top: 10px;
     padding: 10px;
     background-color: #0E9E2F;
@@ -112,10 +129,12 @@ section{
     font-size: 20px;
     border: none;
 }
-.d{
+
+.d {
     display: none;
 }
-.sc2{
+
+.sc2 {
     background-color: transparent;
     position: relative;
     height: 80vh;
@@ -124,107 +143,126 @@ section{
     grid-template-rows: 450px 300px;
     grid-template-columns: 560px 557px 557px;
 }
-.pos{
+
+.pos {
     font-size: 40px;
     top: -50px;
     left: 700px;
     position: absolute;
 }
-.dv1{
+
+.dv1 {
     margin-top: 70px;
     font-size: 26px;
 }
-.dv1 h1{
+
+.dv1 h1 {
     color: #0E9E2F;
     margin-bottom: 20px;
 }
-.dv2{
+
+.dv2 {
     grid-column: 2/4;
     background-image: url(unsplash_zbD8iz5ZJk4.jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.dv3{
+
+.dv3 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(1\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.dv4{
+
+.dv4 {
     background-image: url(unsplash_2yNMsw-A2eI.jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.dv5{
+
+.dv5 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(2\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.dv6{
+
+.dv6 {
     background-image: url(unsplash_zbD8iz5ZJk4\ \(1\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv7{
+
+.dv7 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(3\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv8{
+
+.dv8 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(3\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv9{
+
+.dv9 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(3\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv10{
+
+.dv10 {
     background-image: url(unsplash_zbD8iz5ZJk4\ \(1\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv11{
+
+.dv11 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(4\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv12{
+
+.dv12 {
     background-image: url(unsplash_zbD8iz5ZJk4\ \(2\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
-.dv13{
+
+.dv13 {
     background-image: url(unsplash_2yNMsw-A2eI\ \(5\).jpg);
     background-position: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
+
 .b3 {
     display: none;
 }
-.dd{
+
+.dd {
     display: none;
 }
-.sc3{
+
+.sc3 {
     display: flex;
     padding-top: 2px;
     background-image: url(a1bb138bf68a24515f41e3fd01813eecfb1f9337.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
 }
-.left{
+
+.left {
     font-size: 30px;
     color: white;
     width: 45%;
@@ -233,20 +271,25 @@ section{
     margin-left: 100px;
     /* background-color: aqua; */
 }
-.left h1{
+
+.left h1 {
     font-size: 82px;
     margin-bottom: 50px;
 }
-.df{
+
+.df {
     display: flex;
     align-items: center;
     gap: 30px;
     margin-bottom: 50px;
 }
-span{
-    font-size: 20px;color: #0E9E2F;
+
+span {
+    font-size: 20px;
+    color: #0E9E2F;
 }
-.right{
+
+.right {
     padding-top: 2px;
     font-size: 23px;
     color: white;
@@ -256,32 +299,39 @@ span{
     margin-left: 100px;
     background-color: #0e9e308c;
 }
-.right h1{
+
+.right h1 {
     margin-bottom: 50px;
     font-size: 40px;
 }
-.b{
+
+.b {
     margin-bottom: 30px;
 }
-.gp{
+
+.gp {
     width: 80%;
     height: 60vh;
     margin: auto;
     margin-top: 50px;
 }
-.sc4{
+
+.sc4 {
     background-color: transparent;
 }
-.tt{
+
+.tt {
     justify-content: space-between;
     display: flex;
     width: 100%;
     height: 120px;
 }
-.tt h1{
+
+.tt h1 {
     font-size: 70px;
 }
-.sc44{
+
+.sc44 {
     width: 100%;
     height: 75vh;
     background-image: url(Group\ 1536.png);
@@ -289,7 +339,8 @@ span{
     background-position: 100%;
     background-size: 100%;
 }
-.sc5{
+
+.sc5 {
     font-size: 25px;
     padding-top: 2px;
     color: white;
@@ -301,59 +352,93 @@ span{
     background-position: 100%;
     background-size: 100%;
 }
-.sc5 h1{
+
+.sc5 h1 {
     margin-bottom: 30px;
     margin-top: 50px;
 }
-.b4{
-    padding: 15px;background-color: #0E9E2F;
+
+.b4 {
+    padding: 15px;
+    background-color: #0E9E2F;
     color: white;
     margin-top: 20px;
     border: none;
     font-size: 20px;
     width: 150px;
 }
-.ot{
+
+.ot {
     margin-bottom: 10px;
     width: 100%;
-    display: flex;align-items: center;
+    display: flex;
+    align-items: center;
     justify-content: space-between;
 }
-.ot h1{
+
+.ot h1 {
     font-size: 65px;
 }
-hr{
+
+hr {
     margin-top: 10px;
 }
+
 .sc6 {
     background-color: transparent;
     height: 60vh;
 }
-.crd{
+
+.crd {
     justify-content: space-between;
     margin-top: 50px;
     display: flex;
 }
-h2{
+
+h2 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.g{
+
+.g {
     color: #0E9E2F;
 }
-.st{
+
+.cd {
+    font-size: 22.7px;
+    width: 30%;
+    height: 58vh;
+    background-color: lightgray;
+}
+
+.cd img {
+    width: 100%;
+}
+
+.gg {
+    margin-top: 10px;
+}
+
+.st {
     margin-top: 30px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
-.cr{
+.sc7{
+    height: 70vh;
+}
+.cr {
     font-size: 23px;
     padding: 20px;
     width: 25%;
     height: 40vh;
     background-color: lightgray;
 }
+.dff{
+    display: flex;
+    justify-content: space-between;
+}
 
 
 
@@ -361,160 +446,203 @@ h2{
 
 
 
-
-@media (max-width:510px){
-    header{
+@media (max-width:510px) {
+    header {
         background-size: 100% 100%;
     }
-    nav{
+
+    nav {
         display: none;
     }
-    .d{
+
+    .d {
         margin-top: 10px;
         margin-left: 220px;
         display: block;
     }
-    .dn{
+
+    .dn {
         display: none;
     }
-    .header{
+
+    .header {
         width: 90%;
         margin: auto;
     }
-    .icon{
+
+    .icon {
         display: block;
     }
-    main{
+
+    main {
         margin-left: 10px;
         width: 100%;
         font-size: 10px;
     }
-    main p{
+
+    main p {
         font-size: 15px;
     }
-    .b1{
+
+    .b1 {
         width: 90%;
     }
-    .sc1{
-        height:100vh;
+
+    .sc1 {
+        height: 100vh;
         width: 100%;
     }
-    .fr1{
+
+    .fr1 {
         height: 90vh;
         width: 100%;
     }
-    .frr{
+
+    .frr {
         font-size: 20px;
         width: 100%;
     }
-    .boxs{
+
+    .boxs {
         gap: 10px;
 
         display: flex;
         overflow: scroll;
     }
-    .box{
+
+    .box {
         margin-left: 10px;
         min-width: 90%;
     }
-    .bx{
+
+    .bx {
         font-size: 17px;
     }
-    .ss{
+
+    .ss {
         display: none;
     }
-    .sc2{
+
+    .sc2 {
         flex-direction: column;
         width: 100%;
     }
-    .dv1{
+
+    .dv1 {
         width: 100%;
         font-size: 18px;
     }
+
     .dv2 {
         width: 37%;
         margin-top: -220px;
         margin-left: -570px;
     }
-    .dv5{
+
+    .dv5 {
         margin-top: -550px;
-        width: 75%;  
-        margin-left: 10px;   
+        width: 75%;
+        margin-left: 10px;
     }
-    .pos{
+
+    .pos {
         text-align: center;
         left: 0;
     }
-    .dd{
+
+    .dd {
         width: 75%;
         font-size: 17px;
         margin-top: -10px;
         margin-left: -570px;
         display: flex;
     }
-    .sc3{
+
+    .sc3 {
         width: 100%;
         flex-direction: column;
         background-size: 100% 100%;
     }
-    .left{
+
+    .left {
         margin-left: 0;
         width: 100%;
         margin-top: 0px;
         font-size: 20px;
     }
-    .left h1{
+
+    .left h1 {
         font-size: 20px;
     }
-    .right{
+
+    .right {
         margin-top: -20px;
         margin-left: 0;
         width: 100%;
         font-size: 16px;
     }
-    .gp{
+    .gp {
         margin-left: 10px;
         margin-top: -2px;
         width: 100%;
         height: 50vh;
     }
-    .right h1{
+    .right h1 {
         font-size: 20px;
     }
-    .b{
+    .b {
         margin-bottom: 5px;
     }
-    .sc4{
+    .sc4 {
         height: 80vh;
         width: 100%;
     }
-    .tt{
+    .tt {
         flex-direction: column;
         width: 90%;
         margin: auto;
     }
-    .tt img{
+    .tt img {
         width: 95%;
     }
-    .sc6{
+    .sc6 {
         width: 100%;
     }
-    .ot{
+    .ot {
         width: 100%;
         flex-direction: column;
     }
-    .ot h1{
+    .ot h1 {
         font-size: 40px;
     }
-    .hr1{
+    .hr1 {
         display: none;
     }
-    .crd{
+    .crd {
         gap: 20px;
         overflow: scroll;
         width: 100%;
     }
-    .cr{
+    .cr {
         min-width: 90%;
+    }
+    .sc5{
+        display: none;
+    }
+    .sc7{
+        width: 100%;
+    }
+    .dff{
+        gap: 10px;
+        overflow: scroll;
+    }
+    .cd{
+        height: 55vh;
+        font-size: 18px;
+        min-width: 90%;
+    }
+    .cd h2{
+        margin-bottom: 0px;
+        font-size: 20px;
     }
 }
