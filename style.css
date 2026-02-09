@@ -53,10 +53,68 @@ main p{
 .icon{
     display: none;
 }
+section{
+    width: 90%;
+    height: 90vh;
+    background-color: aqua;
+    margin: auto;
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+.sc1{
+    height: 150vh;
+    padding-top: 80px;
+    background-color: #686868;
+    color: white;
+}
+.fr1{
+    width: 90%;
+    height: 145vh;
+    /* background-color: blueviolet; */
+    margin: auto;
+}
+.frr{
+    font-size: 19px;
+    width: 30%;
+}
+.frr h1{
+    margin-bottom: 30px;
+}
+.boxs{
+    margin-top: 30px;
+    width: 100%;  
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 30%;
+    height: 400px;
+    background-color: #555353;
+}
 
-
-
-
+.bx{
+    font-size: 23px;
+    width: 90%;
+    height: 300px;
+    margin-left: 40px;
+}
+.bx h1{
+    margin-bottom: 10px;
+}
+.box img{
+    text-align: center;
+}
+.b2{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #0E9E2F;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.d{
+    display: none;
+}
 
 
 
@@ -68,6 +126,11 @@ main p{
     }
     nav{
         display: none;
+    }
+    .d{
+        margin-top: 10px;
+        margin-left: 220px;
+        display: block;
     }
     .dn{
         display: none;
@@ -89,5 +152,33 @@ main p{
     }
     .b1{
         width: 90%;
+    }
+    .sc1{
+        height:100vh;
+        width: 100%;
+    }
+    .fr1{
+        height: 90vh;
+        width: 100%;
+    }
+    .frr{
+        font-size: 20px;
+        width: 100%;
+    }
+    .boxs{
+        gap: 10px;
+
+        display: flex;
+        overflow: scroll;
+    }
+    .box{
+        margin-left: 10px;
+        min-width: 90%;
+    }
+    .bx{
+        font-size: 17px;
+    }
+    .ss{
+        display: none;
     }
 }
