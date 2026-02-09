@@ -289,8 +289,30 @@ span{
     background-position: 100%;
     background-size: 100%;
 }
-
-
+.sc5{
+    font-size: 25px;
+    padding-top: 2px;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 40vh;
+    background-image: url(Rectangle\ 47\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 100%;
+}
+.sc5 h1{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.b4{
+    padding: 15px;background-color: #0E9E2F;
+    color: white;
+    margin-top: 20px;
+    border: none;
+    font-size: 20px;
+    width: 150px;
+}
 
 @media (max-width:510px){
     header{
