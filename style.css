@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    height: 80vh;
+    color: white;
+    background-image: url(Rectangle\ 47.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.header {
+    margin-top: 20px;
+    width: 90%;
+    height: 70px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    font-size: 20px;
+    gap: 40px;
+    display: flex;
+    margin-left: 50px;
+    margin-right: 150px;
+}
+main{
+    font-size: 40px;
+    width: 50%;
+    margin-top: 230px;
+    margin-left: 90px;
+}
+main p{
+    margin-top: 40px;
+    font-size: 30px;
+}
+.b1{
+    margin-top: 40px;
+    padding: 15px;background-color: #0E9E2F;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.wt{
+    margin-left: 1400px;
+    position: absolute;
+    margin-top: 40px;
+}
+.icon{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:510px){
+    header{
+        background-size: 100% 100%;
+    }
+    nav{
+        display: none;
+    }
+    .dn{
+        display: none;
+    }
+    .header{
+        width: 90%;
+        margin: auto;
+    }
+    .icon{
+        display: block;
+    }
+    main{
+        margin-left: 10px;
+        width: 100%;
+        font-size: 10px;
+    }
+    main p{
+        font-size: 15px;
+    }
+    .b1{
+        width: 90%;
+    }
+}
